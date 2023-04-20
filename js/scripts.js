@@ -130,7 +130,7 @@ map.on('load', () => {
                 <dd>${park}
                 <dt>Active/Inactive: 
                 <dd>${open}
-                <dt>Exact Location:
+                <dt>Location Description:
                 <dd>${location}`
             )
             .addTo(map);
