@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+#map {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+h1 {
+    font-size: 20px;
+    line-height: 30px;
+}
+
+
+.description {
+    font-size: 14px;
+}
+
+a {
+    text-decoration: none;
+    color: #fc7100;
+}
+
+.sidebar {
+    position: absolute;
+    width: 350px;
+    margin: 10px;
+    padding: 10px 20px;
+    background-color: rgb(254, 241, 223);
+}
+
+.legend {
+    margin-bottom: 50px;
+}
+
+.row {
+    height: 12px;
+    width: 100%;
+}
+
+.colors {
+    background: linear-gradient(to right, #9ee5ff 32%, #0091ff 32% 65%, #003cff 65%);
+    margin-bottom: 5px;
+}
+
+.label {
+    font-size: 14px;
+    width: 32%;
+    display: inline-block;
+    text-align: center;
+}
