@@ -28,19 +28,10 @@ a {
 
 .sidebar {
     position: absolute;
-    width: 350px;
+    width: 300px;
     margin: 10px;
     padding: 10px 20px;
     background-color: rgb(254, 241, 223);
-}
-
-.legend {
-    margin-bottom: 50px;
-}
-
-.row {
-    height: 12px;
-    width: 100%;
 }
 
 .colors {
